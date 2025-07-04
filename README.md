@@ -29,10 +29,11 @@ Mechanical Engineer who enjoys bridging the gap between hardware and software. I
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <br>
   <img src="https://img.shields.io/badge/Manim-343434?style=for-the-badge&logo=manim&logoColor=white" alt="Manim"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=tex&logoColor=white" alt="LaTeX"/>
-  <br>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
