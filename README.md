@@ -44,6 +44,11 @@ These are the current pillars of my work. Some are proofs-of-concept, while othe
 * **[Matlab_DataAnalysis](https://github.com/theArchitectEngineer101/Matlab_DataAnalysis):** Scripts for data analysis and systems simulation, including a didactic animation of the convolution process.
 * **[Manim_EngineeringConcepts](https://github.com/theArchitectEngineer101/Manim_EngineeringConcepts):** Animations and visualizations of complex engineering and mathematical concepts, such as the surface of a Laplace transform.
 
+#### Architectural Visions (Future Projects)
+* **Project Ignis:** The vision for a 5-DOF robotic arm, from mechanical design to control firmware.
+* **Protocol Chimera:** The evolution of Ignis, incorporating active perception (Computer Vision) and adaptive intelligence (Machine Learning).
+* **Project Icarus:** A future exploration into kite aerodynamics using OpenFOAM simulations.
+
 ---
 
 ### 📊 My GitHub Stats
