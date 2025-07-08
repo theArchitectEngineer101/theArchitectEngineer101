@@ -1,57 +1,55 @@
-# Hi there, I'm theArchitectEngineer101 👋
+<p align="center">
+  <img src="argus.jpg" alt="The Architect Engineer Banner"/>
+</p>
 
-### Building the bridge between Mechanical Engineering, Robotics, and Artificial Intelligence.
+<h1 align="center">Hi there, I'm João Vitor (theArchitectEngineer101) 👋</h1>
+<h3 align="center">Building the bridge between Mechanical Engineering, Robotics, and Artificial Intelligence.</h3>
 
 <br>
 
-Mechanical Engineer who enjoys bridging the gap between hardware and software. I build tangible projects—from hardware prototypes to data-driven animations—that solve engineering challenges and explain complex mathematical concepts. My primary areas of interest and ongoing projects are in robotics, control systems, and applied machine learning.
-
-<br>
+I am a Mechanical Engineer who enjoys bridging the gap between hardware and software. I build tangible projects—from hardware prototypes to data-driven animations—that solve engineering challenges and explain complex mathematical concepts. My primary areas of interest are in robotics, control systems, and applied machine learning.
 
 ---
 
-### 🏛️ Connect with Me
+### 🏛️ The Argus Ecosystem: My Architectural Vision
 
-<p align="left">
-  <a href="www.linkedin.com/in/joaovitorval">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_LINK_HERE_TO_YOUTUBE">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+My work is not just a collection of projects; it's the progressive assembly of a unified, intelligent automation ecosystem. Each component is a stepping stone towards a larger, interconnected system.
+
+-   **Project Ignis (The Body):** A high-precision robotic arm serving as the physical effector of the system. This is the focus of my undergraduate thesis.
+-   **Protocol Chimera (The Senses):** The evolution of Ignis, equipping it with computer vision and sensory input to enable active perception and data gathering for machine learning models.
+-   **API Hermes (The Nervous System):** A modular Flask API that acts as the central communication layer, translating high-level commands into low-level hardware instructions for all robotic agents.
+-   **System Orpheus (The Mind):** The orchestration layer. Orfeu integrates with AI models like Gemini to translate human intent into actionable, multi-step plans for Hermes to execute.
 
 ---
 
 ### 🛠️ My Tech Stack
 
 <p align="left">
+  <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <br>
+  <br><br>
+  <strong>Libraries & Frameworks:</strong><br>
   <img src="https://img.shields.io/badge/Manim-343434?style=for-the-badge&logo=manim&logoColor=white" alt="Manim"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=tex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <br><br>
+  <strong>Tools & Platforms:</strong><br>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=tex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-### 🏗️ Featured Blueprints & Projects
+### 🏗️ My Public Blueprints (Repositories)
 
-These are the current pillars of my work. Some are proofs-of-concept, while others are the foundations for larger future projects.
+This list is automatically updated to reflect my public work on GitHub.
 
-#### Analyses & Visualizations
-* **[Matlab_DataAnalysis](https://github.com/theArchitectEngineer101/Matlab_DataAnalysis):** Scripts for data analysis and systems simulation, including a didactic animation of the convolution process.
-* **[Manim_EngineeringConcepts](https://github.com/theArchitectEngineer101/Manim_EngineeringConcepts):** Animations and visualizations of complex engineering and mathematical concepts, such as the surface of a Laplace transform.
-
-#### Architectural Visions (Future Projects)
-* **Project Ignis:** The vision for a 5-DOF robotic arm, from mechanical design to control firmware.
-* **Protocol Chimera:** The evolution of Ignis, incorporating active perception (Computer Vision) and adaptive intelligence (Machine Learning).
-* **Project Icarus:** A future exploration into kite aerodynamics using OpenFOAM simulations.
+<!--START_REPOS_LIST-->
+<!--END_REPOS_LIST-->
 
 ---
 
@@ -61,3 +59,23 @@ These are the current pillars of my work. Some are proofs-of-concept, while othe
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theArchitectEngineer101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theArchitectEngineer101&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
+---
+
+### 📫 Get In Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaovitorval">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@theArchitectEngineer101">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+   <a href="mailto:techproblems.solver@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br>
+
+> *"The things I once imagined would be my greatest achievements were only the first steps toward a future I can only begin to fathom."* — Jace Beleren

@@ -1,0 +1,47 @@
+# Name of the workflow displayed in the GitHub Actions UI.
+name: Profile Updater
+
+# Defines the triggers for this workflow.
+on:
+  # Runs automatically every 6 hours (using cron syntax).
+  schedule:
+    - cron: "0 */6 * * *"
+  # Allows manual runs from the Actions tab for testing or on-demand updates.
+  workflow_dispatch:
+
+# Defines the tasks to be executed.
+jobs:
+  update-readme:
+    # Specifies that the job will run on a fresh virtual machine hosted by GitHub.
+    runs-on: ubuntu-latest
+    
+    # Sequence of tasks that will be executed for this job.
+    steps:
+      # 1. Clones the repository's code into the runner.
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # 2. Sets up the specified Python version in the runner's environment.
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # 3. Installs the script's dependencies (the 'requests' library).
+      - name: Install dependencies
+        run: pip install requests
+
+      # 4. Executes the main Python script to update the README.
+      - name: Run update script
+        run: python ./profile_updater.py
+
+      # 5. Checks for changes in the README.md file and, if any,
+      #    commits and pushes them back to the repository.
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: 🤖 Update repository list on profile"
+          file_pattern: README.md
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
