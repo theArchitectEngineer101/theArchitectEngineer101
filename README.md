@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="argus.jpg" alt="The Architect Engineer Banner"/>
+  <img src="argus_cropped.jpg" alt="The Architect Engineer Banner"/>
 </p>
 
 <h1 align="center">Hi there, I'm João Vitor (theArchitectEngineer101) 👋</h1>
