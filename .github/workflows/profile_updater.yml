@@ -1,6 +1,9 @@
 # Name of the workflow displayed in the GitHub Actions UI.
 name: Profile Updater
 
+permissions:
+  contents: write
+
 # Defines the triggers for this workflow.
 on:
   # Runs automatically every 6 hours (using cron syntax).
