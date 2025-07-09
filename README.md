@@ -49,6 +49,9 @@ My work is not just a collection of projects; it's the progressive assembly of a
 This list is automatically updated to reflect my public work on GitHub.
 
 <!--START_REPOS_LIST-->
+
+- **[matlab_data_analysis](https://github.com/theArchitectEngineer101/matlab_data_analysis)**: No description provided.
+
 <!--END_REPOS_LIST-->
 
 ---
