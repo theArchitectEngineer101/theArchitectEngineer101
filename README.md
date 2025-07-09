@@ -50,7 +50,7 @@ This list is automatically updated to reflect my public work on GitHub.
 
 <!--START_REPOS_LIST-->
 
-- **[matlab_data_analysis](https://github.com/theArchitectEngineer101/matlab_data_analysis)**: No description provided.
+- **[matlab_data_analysis](https://github.com/theArchitectEngineer101/matlab_data_analysis)**: A centralized hub for my MATLAB projects, covering data analysis, systems simulation, and engineering visualization. Each sub-project is self-contained and well-documented.
 
 <!--END_REPOS_LIST-->
 
