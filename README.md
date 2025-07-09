@@ -18,7 +18,7 @@ My work is not just a collection of projects; it's the progressive assembly of a
 -   **Project Ignis (The Body):** A high-precision robotic arm serving as the physical effector of the system. This is the focus of my undergraduate thesis.
 -   **Protocol Chimera (The Senses):** The evolution of Ignis, equipping it with computer vision and sensory input to enable active perception and data gathering for machine learning models.
 -   **API Hermes (The Nervous System):** A modular Flask API that acts as the central communication layer, translating high-level commands into low-level hardware instructions for all robotic agents.
--   **System Orpheus (The Mind):** The orchestration layer. Orfeu integrates with AI models like Gemini to translate human intent into actionable, multi-step plans for Hermes to execute.
+-   **System Orpheus (The Mind):** The orchestration layer. Orpheus integrates with AI models like Gemini to translate human intent into actionable, multi-step plans for Hermes to execute.
 
 ---
 
@@ -31,9 +31,12 @@ My work is not just a collection of projects; it's the progressive assembly of a
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <br><br>
   <strong>Libraries & Frameworks:</strong><br>
+  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Numpy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy"/>
+  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
+  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-11557c%3Fstyle%3Dfor-the-badge%26logo%3Dmatplotlib%26logoColor%3Dwhite" alt="Matplotlib"/>
+  <br>
   <img src="https://img.shields.io/badge/Manim-343434?style=for-the-badge&logo=manim&logoColor=white" alt="Manim"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <br><br>
   <strong>Tools & Platforms:</strong><br>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
