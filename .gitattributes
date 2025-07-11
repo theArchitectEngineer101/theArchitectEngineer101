@@ -1,1 +1,2 @@
-*.ipynb linguist-vendored
+# Exclude notebooks from stats
+# *.ipynb linguist-vendored
