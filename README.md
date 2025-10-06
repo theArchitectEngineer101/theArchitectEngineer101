@@ -55,7 +55,7 @@ This list is automatically updated to reflect my public work on GitHub.
 
 <!--START_REPOS_LIST-->
 
-- **[argus](https://github.com/theArchitectEngineer101/argus)**: No description provided.
+- **[argus](https://github.com/theArchitectEngineer101/argus)**: Unified robotic integration system orchestrating perception (Orpheus), adaptive peripheral communication (Hermes for "any drive" hive mind), and actuation control (Ignis).
 - **[matlab_data_analysis](https://github.com/theArchitectEngineer101/matlab_data_analysis)**: A centralized hub for my MATLAB projects, covering data analysis, systems simulation, and engineering visualization. Each sub-project is self-contained and well-documented.
 
 <!--END_REPOS_LIST-->
