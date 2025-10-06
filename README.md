@@ -5,9 +5,13 @@
 <h1 align="center">Hi there, I'm João Vitor (theArchitectEngineer101) 👋</h1>
 <h3 align="center">Building the bridge between Mechanical Engineering, Robotics, and Artificial Intelligence.</h3>
 
-<br>
+</h3>
 
-I am a Mechanical Engineer who enjoys bridging the gap between hardware and software. I build tangible projects—from hardware prototypes to data-driven animations—that solve engineering challenges and explain complex mathematical concepts. My primary areas of interest are in robotics, control systems, and applied machine learning.
+### 🔭 About Me
+
+As a Mechanical Engineer, I'm driven by the creative challenge of connecting the physical and digital worlds. My work focuses on turning complex engineering principles into tangible solutions, whether that involves designing hardware from scratch, developing firmware, or building the software that brings it all to life. I believe that the most powerful innovations emerge from this synergy between thoughtful mechanical design and intelligent code.
+
+Beyond building systems, I am passionate about understanding and sharing the core concepts behind them. I enjoy creating data-driven animations and visualizations to demystify complex topics in engineering and mathematics, making them more intuitive and accessible. My goal is to continue exploring the intersection of robotics, control systems, and applied machine learning, contributing to the development of elegant and efficient intelligent systems.
 
 ---
 
