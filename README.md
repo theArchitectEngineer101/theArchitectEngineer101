@@ -11,13 +11,13 @@ I am a Mechanical Engineer who enjoys bridging the gap between hardware and soft
 
 ---
 
-### 🏛️ The Argus Ecosystem: My Architectural Vision
+### 🏛️ The Argus Ecosystem
 
 My work is not just a collection of projects; it's the progressive assembly of a unified, intelligent automation ecosystem. Each component is a stepping stone towards a larger, interconnected system.
 
 -   **Project Ignis (The Body):** A high-precision robotic arm serving as the physical effector of the system. This is the focus of my undergraduate thesis.
 -   **Protocol Chimera (The Senses):** The evolution of Ignis, equipping it with computer vision and sensory input to enable active perception and data gathering for machine learning models.
--   **API Hermes (The Nervous System):** A modular Flask API that acts as the central communication layer, translating high-level commands into low-level hardware instructions for all robotic agents.
+-   **API Hermes (The Nervous System):** A central communication backbone utilizing a **MQTT-based protocol** to enable seamless, low-latency interaction. It translates high-level commands into precise low-level hardware instructions for all robotic agents, fostering a unified "hive mind" operation for diverse peripheral integration.
 -   **System Orpheus (The Mind):** The orchestration layer. Orpheus integrates with AI models like Gemini to translate human intent into actionable, multi-step plans for Hermes to execute.
 
 ---
@@ -49,7 +49,7 @@ My work is not just a collection of projects; it's the progressive assembly of a
 
 ---
 
-### 🏗️ My Public Blueprints (Repositories)
+### 🏗️ My Blueprints (Repositories)
 
 This list is automatically updated to reflect my public work on GitHub.
 
